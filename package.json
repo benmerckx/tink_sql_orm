@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "postinstall": "lix download",
+    "test": "lix run travix node",
+    "travix": "lix run travix"
+  },
+  "dependencies": {
+    "lix": "^15.1.0-rc.2",
+    "mysql": "^2.15.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tink_sql_orm",
+  "license": "MIT",
+  "tags": [],
+  "classPath": "src",
+  "contributors": [
+    "benmerckx"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.0",
+  "url": "https://github.com/benmerckx/tink_sql_orm/",
+  "dependencies": {}
+}
